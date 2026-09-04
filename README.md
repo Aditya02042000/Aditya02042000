@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Gautam</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 📱 Android Developer | 🧠 Problem Solver
+🚀 Full Stack Developer • 📱 Android Developer • 🧠 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;DSA+Problem+Solver;Open+Source+Enthusiast;AI+Explorer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Android+Developer;DSA+Problem+Solver;AI+Explorer;Open+Source+Enthusiast;Building+Something+Awesome" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aditya02042000">
-    <img src="https://komarev.com/ghpvc/?username=Aditya02042000&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Aditya02042000&label=PROFILE+VIEWS&style=for-the-badge" />
   </a>
   <a href="https://github.com/Aditya02042000?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aditya02042000?style=for-the-badge&logo=github&label=Followers" />
+    <img src="https://img.shields.io/github/followers/Aditya02042000?style=for-the-badge&logo=github&label=FOLLOWERS" />
   </a>
 </p>
 
@@ -21,52 +21,26 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 💫 About Me
+## 👨‍💻 About Me
+
+I'm **Aditya Kumar Gautam**, a developer passionate about building modern web applications, Android applications and practical software solutions.
 
 - 🔭 Currently building **Full Stack & Android Projects**
 - 🌱 Learning **Advanced MERN Stack & AI Integration**
 - 💻 Passionate about **Web Development & Mobile Applications**
-- 🧠 Improving my skills in **Data Structures & Algorithms**
-- 🚀 Interested in building **real-world scalable applications**
-- 🎨 Love creating **modern and creative UI/UX**
-- ☁️ Exploring **Cloud Technologies & Deployment**
-- 🎯 Goal: Become a **strong and versatile Software Engineer**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **AI-powered applications**
+- 🎨 Interested in **Creative UI/UX**
+- ☁️ Exploring **Cloud & Deployment**
+- 🎯 Working towards becoming a **strong Software Engineer**
 
 <br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/adityakumargautam/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="mailto:adityakumar02042000@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://github.com/Aditya02042000">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="https://leetcode.com/u/AdityaKumarGautam/">
-<img src="https://cdn.simpleicons.org/leetcode" height="45" />
-</a>
-
-<a href="https://codolio.com/profile/oiryBwNG">
-<img src="https://cdn.simpleicons.org/googlechrome" height="45" />
-</a>
-
-</p>
-
----
-
 # 🚀 Tech Stack
 
-## 👨‍💻 Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,kotlin,html,css,sql" />
@@ -78,10 +52,16 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
+## 📱 Android
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
+</p>
+
 ## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel" />
 </p>
 
 ---
@@ -90,7 +70,7 @@
 
 ## 💼 JobNest — Job Search Platform
 
-🚀 A full-stack job portal built using the **MERN Stack**.
+🚀 Full-stack job portal built using the **MERN Stack**.
 
 ### ✨ Features
 
@@ -102,7 +82,7 @@
 - ⚡ REST API Backend
 - 🗄️ MongoDB Database
 
-### 🛠️ Tech Used
+### 🛠️ Tech Stack
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
@@ -110,19 +90,19 @@
 
 ## 🌐 Portfolio Website
 
-✨ A personal portfolio website showcasing my projects, skills and achievements.
+✨ Personal portfolio website showcasing projects, skills and achievements.
 
 ### 🔥 Features
 
 - 📱 Fully Responsive
 - 🎨 Modern UI
-- ✨ Interactive Design
 - 🧭 Smooth Navigation
+- ✨ Interactive Design
 - ⚡ Fast & Lightweight
 
-### 🛠️ Tech Used
+### 🛠️ Tech Stack
 
-`HTML` `CSS` `React.js`
+`React.js` `HTML` `CSS`
 
 ---
 
@@ -132,14 +112,6 @@
 
 <a href="https://leetcode.com/u/AdityaKumarGautam/">
 <img src="https://leetcard.jacoblin.cool/AdityaKumarGautam?theme=dark&font=Karma&ext=contest" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/u/AdityaKumarGautam/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </p>
@@ -164,7 +136,7 @@
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -188,33 +160,53 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Aditya02042000/Aditya02042000/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
 ---
 
-# 🌐 Coding Profiles
+# 🎯 Current Focus
 
-<p align="center">
+<table align="center">
 
-<a href="https://github.com/Aditya02042000">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<tr>
+<td align="center">🌐</td>
+<td><b>Full Stack</b></td>
+<td>MERN Stack & REST APIs</td>
+</tr>
 
-<a href="https://leetcode.com/u/AdityaKumarGautam/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+<tr>
+<td align="center">📱</td>
+<td><b>Android</b></td>
+<td>Modern Android Applications</td>
+</tr>
 
-<a href="https://linkedin.com/in/adityakumargautam/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<tr>
+<td align="center">🤖</td>
+<td><b>AI</b></td>
+<td>AI Integration</td>
+</tr>
 
-<a href="https://codolio.com/profile/oiryBwNG">
-<img src="https://img.shields.io/badge/Codolio-Profile-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<tr>
+<td align="center">🧠</td>
+<td><b>DSA</b></td>
+<td>Algorithms & Problem Solving</td>
+</tr>
 
-</p>
+<tr>
+<td align="center">☁️</td>
+<td><b>Cloud</b></td>
+<td>AWS & Deployment</td>
+</tr>
+
+<tr>
+<td align="center">🎨</td>
+<td><b>UI/UX</b></td>
+<td>Modern Interfaces</td>
+</tr>
+
+</table>
 
 ---
 
@@ -222,29 +214,56 @@
 
 ```javascript
 const aditya = {
-    code: ["Java", "JavaScript", "Python", "C", "C++", "Kotlin"],
-    
-    frontend: ["React.js", "HTML", "CSS"],
-    
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    
-    database: ["MongoDB", "Firebase", "MySQL"],
-    
-    tools: ["Git", "GitHub", "VS Code", "Android Studio"],
-    
-    cloud: ["AWS", "Vercel"],
-    
+    role: "Full Stack & Android Developer",
+
+    languages: [
+        "Java",
+        "JavaScript",
+        "Python",
+        "C",
+        "C++",
+        "Kotlin",
+        "SQL"
+    ],
+
+    frontend: [
+        "React.js",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+
+    databases: [
+        "MongoDB",
+        "Firebase",
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Android Studio",
+        "AWS",
+        "Vercel"
+    ],
+
     interests: [
         "Full Stack Development",
         "Android Development",
         "DSA",
-        "AI Integration",
+        "Artificial Intelligence",
         "UI/UX"
     ],
-    
+
     currentFocus:
-        "Building scalable applications & improving problem solving",
-    
+        "Building scalable applications",
+
     funFact:
         "I turn coffee ☕ into code 💻"
 };
